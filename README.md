@@ -8,6 +8,8 @@
 <a href='https://github.com/Josuerodrigojr'>
 <img height='180em' src='https://github-readme-stats.vercel.app/api?username=Josuerodrigojr&count_private=true&show_icons=true&theme=gruvbox'>
 <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Josuerodrigojr&layout=compact&theme=gruvbox'>
+
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div> 
 
  # Tecnologias
@@ -21,11 +23,13 @@
    <img align='center' alt='Josue-Postgre' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
    <img align='center' alt='Josue-MongoDB' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
    <img align='center' alt='Josue-React' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
-
+ 
     
   </div>
  
-<img href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+ 
+ 
+
  
  
  ##
