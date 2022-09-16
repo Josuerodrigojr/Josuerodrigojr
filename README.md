@@ -13,13 +13,13 @@
  # Tecnologias
   
   <div style='display: inline_block' align='center'> <br>
-    <img align='center' alt='Josue-Js' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-    <img align='center' alt='Josue-Js' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-    <img align='center' alt='Josue-Js' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
-    <img align='center' alt='Josue-Js' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
-   <img align='center' alt='Josue-Js' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
-   <img align='center' alt='Josue-Js' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
-   <img align='center' alt='Josue-Js' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
-   <img align='center' alt='Josue-Js' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg'>
+    <img align='center' alt='Josue-Js' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+    <img align='center' alt='Josue-Js' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+    <img align='center' alt='Josue-Js' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+    <img align='center' alt='Josue-Js' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+   <img align='center' alt='Josue-Js' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
+   <img align='center' alt='Josue-Js' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
+   <img align='center' alt='Josue-Js' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+   <img align='center' alt='Josue-Js' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg'>
     
   </div>
