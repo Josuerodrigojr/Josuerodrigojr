@@ -52,4 +52,4 @@
  </div>
 
  
- ![Snake animation](https://github.com/Josuerodrigojr)
+ ![Snake animation](https://github.com/Josuerodrigojr/Josuerodrigojr/blob/output/github-contribution-grid-snake.svg)
