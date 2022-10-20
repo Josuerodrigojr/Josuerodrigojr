@@ -1,7 +1,7 @@
 # Olá! Me chamo Josué Rodrigo
 
 - 👨‍🏫 Hoje eu trabalho como professor de Matemática em escolas privadas.
-- 🤓 Estou estudando Ruby.
+- 🤓 Estou estudando Typescript.
 - 👦 Pronome: ele/dele.
 
 <div align='center'>
