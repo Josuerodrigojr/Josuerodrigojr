@@ -21,15 +21,15 @@
  </div>
 
   <div style='display: inline_block' align='center'> <br>
-       <img align='center' alt='Josue-Html' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
-    <img align='center' alt='Josue-Css' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-    <img align='center' alt='Josue-Js' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-     <img align='center' alt='Josue-Ruby' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg'>
-    <img align='center' alt='Josue-Node' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
-   <img align='center' alt='Josue-Postgred' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
-   <img align='center' alt='Josue-MongoDB' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
-   <img align='center' alt='Josue-React' height='60' width='80' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
-  <img align='center' alt='Josue-React' height='60' width='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" >
+       <img align='center' alt='Josue-Html' height='60' width='70' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+    <img align='center' alt='Josue-Css' height='60' width='70' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+    <img align='center' alt='Josue-Js' height='60' width='70' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+     <img align='center' alt='Josue-Ruby' height='60' width='70' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg'>
+    <img align='center' alt='Josue-Node' height='60' width='70' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+   <img align='center' alt='Josue-Postgred' height='60' width='70' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
+   <img align='center' alt='Josue-MongoDB' height='60' width='70' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
+   <img align='center' alt='Josue-React' height='60' width='70' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+  <img align='center' alt='Josue-nest' height='60' width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" >
 
   
     
