@@ -32,7 +32,7 @@
   <img align='left' alt='Josue-nest' height='60' width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" >
   <img align='left' alt='Josue-typescript' height='60' width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
 
-  
+  <br>
     
   </div>
  
