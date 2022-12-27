@@ -30,7 +30,7 @@
    <img alt='Josue-MongoDB' height='60' width='70' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
    <img alt='Josue-React' height='60' width='70' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
   <img alt='Josue-nest' height='60' width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" >
-  <img alt='Josue-typescript' height='60' width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
+  <img align='left' alt='Josue-typescript' height='60' width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
 
   
     
