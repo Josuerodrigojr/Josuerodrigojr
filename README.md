@@ -1,7 +1,7 @@
 # Olá! Me chamo Josué Rodrigo
 
 - 👨‍🏫 Hoje eu trabalho como professor de Matemática em escolas privadas.
-- 🤓 Estou estudando Typescript.
+- 🤓 Estou estudando na cubos academy
 
 
 <div align='center'>
