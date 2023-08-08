@@ -2,7 +2,7 @@
 
 - 👨‍🏫 Hoje eu trabalho como professor de Matemática em escolas privadas.
 - 🤓 Estou estudando Typescript.
-- 👦 Pronome: ele/dele.
+
 
 <div align='center'>
 <a href='https://github.com/Josuerodrigojr'>
